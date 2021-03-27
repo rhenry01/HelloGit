@@ -1,2 +1,2 @@
 # HelloGit
-This is the intro practice repository
+I'm a programmer and digital explorer.
